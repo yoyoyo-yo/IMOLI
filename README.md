@@ -1,8 +1,8 @@
 # IMOLI
 
-**Integrated MOdels Library**
+**Integrated MOdels LIbrary**
 
-Unofficial Foundation Models implementation.
+Unofficial Foundation Models implementation. Pytorch
 
 | model name| status |
 |:---:|:---:|
