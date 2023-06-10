@@ -2,6 +2,8 @@
 
 **Integrated MOdels LIbrary**
 
+More Readable, More Understandible, More Flexible, More Adaptable
+
 Unofficial Foundation Models implementation. Pytorch
 
 | model name| status |
